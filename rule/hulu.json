@@ -1,0 +1,38 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        ".hulu.com",
+        ".hulu.jp",
+        ".hulu.tv",
+        ".hulu.us",
+        ".huluaction.com",
+        ".huluad.com",
+        ".huluapp.com",
+        ".huluasks.com",
+        ".hulucall.com",
+        ".hulufree.com",
+        ".hulugans.com",
+        ".hulugermany.com",
+        ".hulugo.com",
+        ".huluhuluhuluhulu10.work",
+        ".huluim.com",
+        ".huluinstantmessenger.com",
+        ".huluitaly.com",
+        ".hulunet.com",
+        ".hulunetwork.com",
+        ".huluplus.com",
+        ".hulupremium.com",
+        ".hulupurchase.com",
+        ".huluqa.com",
+        ".hulurussia.com",
+        ".huluspain.com",
+        ".hulusports.com",
+        ".hulustream.com",
+        ".huluteam.com",
+        ".hulutv.com",
+        ".huluusa.com"
+      ]
+    },
+  "version": 1
+}
